@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/book.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books and pen";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "What I’ve Built",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Explore a selection of projects I’ve developed, showcasing my skills in web development and software engineering. Each project highlights my passion for creating efficient, user-friendly, and innovative solutions.",
+    url: "https://github.com/Akshata-hub-max",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Achievements",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Earned multiple certifications and badges that demonstrate my skills and expertise in advanced technologies and tools. These achievements highlight my dedication to continuous learning and professional development.",
+    url: "https://learn.microsoft.com/en-us/users/akshatahabib-8401/",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Designed a professional and visually appealing resume using Overleaf, showcasing my skills, experience, and accomplishments with precision and clarity.",
+    url: "https://drive.google.com/file/d/1WKPMyuEH62hc9TNb2Wl0nPYyzPgxl5_S/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "HackerRank Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Completed various coding challenges on HackerRank, demonstrating proficiency in algorithms, data structures, and problem-solving skills. These achievements reflect my dedication to improving my technical expertise and tackling complex coding problems.",
+    url: "https://www.hackerrank.com/profile/akshatarhabib",
   },
 ];
 
